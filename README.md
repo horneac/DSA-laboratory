@@ -9,7 +9,7 @@ I think will be usefull during the course of this lab.
 Lab 1: Introduction to git and Single Linked Lists
 ```
 * Assignment 1:
-	- 1.1: https://classroom.github.com/a/ZpU-nDvV
+	- 1.1: [Basic operations on Singly Linked Lists](https://classroom.github.com/a/ZpU-nDvV)
 	
 	
 ### Notes
@@ -33,3 +33,23 @@ You can find a lot of style guidelines on the web, for any language.
 * create a github account: https://github.com
 * git download link : https://git-scm.com/downloads
 * gitextensions download link: http://gitextensions.github.io/ (my choice of GUI for using git)
+
+### Coding Coding Coding
+```
+The best way to learn to code is to code.
+```
+
+To learn and to get better at coding you have to exercise and write a lot of code to solve various problems. The lab and the assignments are just the groundwork needed to build your skills.
+There are a lot of resources online for great and interesting problems.
+These kind of problem solving algorithms you find on some websites can also help yu for job interviews, where you can be asked to solve something similar.
+
+* [CodingGame](https://codingame.com)
+	- A website with an online code editor where you can write code to solve or play different games.
+* [LeetCode](https://leetcode.com)
+	- Another website with an online code editor where you can try to solve problems usually asked at job interviews. You can also see other solutions and tips, but you should always try to think first and use them when you get stuck or to find a better solution.
+	
+Another great way to learn is helping or teaching others. So try and give some help when other colleagues need it, but don't spoon feed them the solution. Try to give them hints or guide them but let them do the work themselves.
+
+You should also take any chance you have to participate in any contest. It is not as hard as you think and it can be a good experience even if you don't take any prize.
+Because of the pandemic, some of them may not be held this year but some examples are CCC (Cloudflight Coding Contest), ACM and a handfull of hackathons.
+Also, there are contests held on the previously mentioned websites.
