@@ -22,7 +22,7 @@ Some C style guidelines
 * Consistent style (e.g. if you like to place the curly braces on the next line, then always do so, don't switch between styles).
 * You should use blank space (empty new lines) to split your code into meaningful blocks. For example, leave a blank line after the declarations of variables at the beginning of a function, this way, it is clearly visible where the code starts and where you should look for variable declarations.
 * Use parantheses for clarity when you have complex operations.
-* A line should not be longer than 80 characters (its nice when the line fits on the screen, without having to scroll to read it).
+* A line should not be longer than 80 characters (it's nice when the line fits on the screen, without having to scroll to read it).
 * Avoid code duplication.
 * Functions should be short and clear. If a function becames too long, then you should split it.
 
