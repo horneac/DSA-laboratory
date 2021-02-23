@@ -9,7 +9,7 @@ I think will be usefull during the course of this lab.
 Lab 1: Introduction to git and Single Linked Lists
 ```
 * Assignment 1:
-	- 1.1: [Basic operations on Singly Linked Lists](https://classroom.github.com/a/ZpU-nDvV)
+	- 1.1: [Basic operations on Singly Linked Lists](https://classroom.github.com/a/ZpU-nDvV) (deadline: 27.02.2021 23:00)
 	
 	
 ### Notes
