@@ -30,9 +30,8 @@ These are some basic style guides that helps you maintain your code more readabl
 You can find a lot of style guidelines on the web, for any language. 
 
 ### Git
-* create a github account: https://github.com
-* git download link : https://git-scm.com/downloads
-* gitextensions download link: http://gitextensions.github.io/ (my choice of GUI for using git)
+
+You can find the links [here](https://github.com/horneac/DSA-laboratory/tree/main/git)
 
 ### Coding Coding Coding
 ```
