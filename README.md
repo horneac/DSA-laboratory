@@ -49,6 +49,12 @@ These kind of problem solving algorithms that you find on some websites can also
 	
 Another great way to learn is helping or teaching others. So try and give some help when other colleagues need it, but don't spoon feed them the solution. Try to give them hints or guide them, but let them do the work themselves.
 
+
 You should also take any chance you have to participate in any contest. It is not as hard as you think and it can be a good experience even if you don't take any prize.
-Because of the pandemic, some of them may not be held this year. Some examples are CCC (Cloudflight Coding Contest), ACM and a handful of hackathons.
+Because of the pandemic, some of them may not be held this year. Some examples are
+* CCC (Cloudflight Coding Contest) 
+* ACM (algorithms)
+* Bosch future mobility contest ( you program a RC car to drive autonomously, isn't that interesting :D )
+* a handful of hackathons.
+
 Also, there are contests held on the previously mentioned websites.
