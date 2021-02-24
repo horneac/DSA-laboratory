@@ -11,6 +11,12 @@ Lab 1: Introduction to git and Single Linked Lists
 * Assignment 1:
 	- 1.1: [Basic operations on Singly Linked Lists](https://classroom.github.com/a/ZpU-nDvV) (deadline: 27.02.2021 23:00)
 	
+```
+Lab 2: Doubly Linked Lists
+```
+* Assignment 2:
+	- 2.1: [Basic operations on Doubly Linked Lists](https://classroom.github.com/a/TyST7F8_) (deadline: 06.03.2021 23:99)
+	- 2.2: [Queues](https://classroom.github.com/a/eIFpwvu4) (deadline: 07.03.2021 23:99)
 	
 ### C style guidelines
 [Here](https://github.com/horneac/DSA-laboratory/tree/main/c-guidelines) you can find a list of of guidelines for how to write your code.
