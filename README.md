@@ -22,7 +22,7 @@ Lab 2: Doubly Linked Lists
 Lab 3: Trees
 ```
 * Assignment 3:
-	- 3: [Operations on trees](https://classroom.github.com/a/JAZOcZiP) (deadline: 13.03.2021 23:59)
+	- 3: [Operations on trees](https://classroom.github.com/a/JAZOcZiP) (deadline: 14.03.2021 23:59)
 	
 ### C style guidelines
 [Here](https://github.com/horneac/DSA-laboratory/tree/main/c-guidelines) you can find a list of of guidelines for how to write your code.
