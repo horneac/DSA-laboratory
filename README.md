@@ -23,7 +23,11 @@ Lab 3: Trees
 ```
 * Assignment 3:
 	- 3: [Operations on trees](https://classroom.github.com/a/JAZOcZiP) (deadline: 14.03.2021 23:59)
-	
+```
+Lab 4: Binary Search Trees and AVL trees
+```
+* Assignment 3:
+	- 4: [BST and AVL trees operations](https://classroom.github.com/a/t-y9xx2U) (deadline: 21.03.2021 23:59)
 ### C style guidelines
 [Here](https://github.com/horneac/DSA-laboratory/tree/main/c-guidelines) you can find a list of of guidelines for how to write your code.
 
