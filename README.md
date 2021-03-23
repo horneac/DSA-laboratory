@@ -26,8 +26,13 @@ Lab 3: Trees
 ```
 Lab 4: Binary Search Trees and AVL trees
 ```
-* Assignment 3:
+* Assignment 4:
 	- 4: [BST and AVL trees operations](https://classroom.github.com/a/t-y9xx2U) (deadline: 21.03.2021 23:59)
+```
+Lab 5: Hash Tables
+```
+* Assignment 5:
+	- 5: [Chaining and open adressing hash tables](https://classroom.github.com/a/3KvNgs_r) (deadline: 28.03.2021 23:59)
 ### C style guidelines
 [Here](https://github.com/horneac/DSA-laboratory/tree/main/c-guidelines) you can find a list of of guidelines for how to write your code.
 
