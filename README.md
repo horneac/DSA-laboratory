@@ -33,6 +33,16 @@ Lab 5: Hash Tables
 ```
 * Assignment 5:
 	- 5: [Chaining and open adressing hash tables](https://classroom.github.com/a/3KvNgs_r) (deadline: 28.03.2021 23:59)
+
+```
+Lab 6: Graphs
+```
+* Assignment 6:
+	- 6.1: [Sub Graphs](https://classroom.github.com/a/WBzAs3Nv) (deadline: 04.04.2021 23:59)
+	- 6.2: [Graph Traversals](https://classroom.github.com/a/2D1LSDHh) (deadline: 04.04.2021 23:59)
+	- 6.3: [Dijktra](https://classroom.github.com/a/GUK-FvWr) (deadline: 04.04.2021 23:59)
+
+
 ### C style guidelines
 [Here](https://github.com/horneac/DSA-laboratory/tree/main/c-guidelines) you can find a list of of guidelines for how to write your code.
 
