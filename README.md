@@ -63,7 +63,9 @@ These kind of problem solving algorithms that you find on some websites can also
 	- A website with an online code editor where you can write code to solve or play different games.
 * [LeetCode](https://leetcode.com)
 	- Another website with an online code editor where you can try to solve problems usually asked at job interviews. You can also see other solutions and tips, but you should always try to think first and use them when you get stuck or in order to find a better solution.
-	
+* [BinarySearch](https://binarysearch.com/)
+	- Another website with a lot of problems and contests, you can also make rooms where you can invite people and try to compete on solving the problems.
+
 Another great way to learn is helping or teaching others. So try and give some help when other colleagues need it, but don't spoon feed them the solution. Try to give them hints or guide them, but let them do the work themselves.
 
 
