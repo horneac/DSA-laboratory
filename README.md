@@ -9,38 +9,38 @@ I think will be usefull during the course of this lab.
 Lab 1: Introduction to git and Single Linked Lists
 ```
 * Assignment 1:
-	- 1.1: [Basic operations on Singly Linked Lists](https://classroom.github.com/a/ZpU-nDvV) (deadline: 27.02.2021 23:00)
+	- 1.1: [Basic operations on Singly Linked Lists](https://classroom.github.com/a/ZpU-nDvV)
 	
 ```
 Lab 2: Doubly Linked Lists
 ```
 * Assignment 2:
-	- 2.1: [Basic operations on Doubly Linked Lists](https://classroom.github.com/a/TyST7F8_) (deadline: 06.03.2021 23:59)
+	- 2.1: [Basic operations on Doubly Linked Lists](https://classroom.github.com/a/TyST7F8_) 
 	- 2.2: [Queues](https://classroom.github.com/a/eIFpwvu4) (deadline: 07.03.2021 23:59)
 	
 ```
 Lab 3: Trees
 ```
 * Assignment 3:
-	- 3: [Operations on trees](https://classroom.github.com/a/JAZOcZiP) (deadline: 14.03.2021 23:59)
+	- 3: [Operations on trees](https://classroom.github.com/a/JAZOcZiP) 
 ```
 Lab 4: Binary Search Trees and AVL trees
 ```
 * Assignment 4:
-	- 4: [BST and AVL trees operations](https://classroom.github.com/a/t-y9xx2U) (deadline: 21.03.2021 23:59)
+	- 4: [BST and AVL trees operations](https://classroom.github.com/a/t-y9xx2U)
 ```
 Lab 5: Hash Tables
 ```
 * Assignment 5:
-	- 5: [Chaining and open adressing hash tables](https://classroom.github.com/a/3KvNgs_r) (deadline: 28.03.2021 23:59)
+	- 5: [Chaining and open adressing hash tables](https://classroom.github.com/a/3KvNgs_r)
 
 ```
 Lab 6: Graphs
 ```
 * Assignment 6:
-	- 6.1: [Sub Graphs](https://classroom.github.com/a/WBzAs3Nv) (deadline: 04.04.2021 23:59)
-	- 6.2: [Graph Traversals](https://classroom.github.com/a/2D1LSDHh) (deadline: 04.04.2021 23:59)
-	- 6.3: [Dijktra](https://classroom.github.com/a/GUK-FvWr) (deadline: 04.04.2021 23:59)
+	- 6.1: [Sub Graphs](https://classroom.github.com/a/WBzAs3Nv)
+	- 6.2: [Graph Traversals](https://classroom.github.com/a/2D1LSDHh)
+	- 6.3: [Dijktra](https://classroom.github.com/a/GUK-FvWr) 
 
 
 ### C style guidelines
