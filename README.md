@@ -16,7 +16,7 @@ Lab 2: Doubly Linked Lists
 ```
 * Assignment 2:
 	- 2.1: [Basic operations on Doubly Linked Lists](https://classroom.github.com/a/TyST7F8_) 
-	- 2.2: [Queues](https://classroom.github.com/a/eIFpwvu4) (deadline: 07.03.2021 23:59)
+	- 2.2: [Queues](https://classroom.github.com/a/eIFpwvu4)
 	
 ```
 Lab 3: Trees
