@@ -15,8 +15,8 @@ Lab 1: Introduction to git and Single Linked Lists
 Lab 2: Doubly Linked Lists
 ```
 * Assignment 2:
-	- 2.1: [Basic operations on Doubly Linked Lists](https://classroom.github.com/a/TyST7F8_) 
-	- 2.2: [Queues](https://classroom.github.com/a/eIFpwvu4)
+	- 2.1: [Basic operations on Doubly Linked Lists](https://classroom.github.com/a/e_u-TbUB) 
+	- 2.2: [Queues](https://classroom.github.com/a/3Ra8bUQo)
 	
 ```
 Lab 3: Trees
