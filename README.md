@@ -22,7 +22,7 @@ Lab 2: Doubly Linked Lists
 Lab 3: Trees
 ```
 * Assignment 3:
-	- 3: [Operations on trees](https://classroom.github.com/a/JAZOcZiP) 
+	- 3: [Operations on trees](https://classroom.github.com/a/fiRC9V1N) 
 ```
 Lab 4: Binary Search Trees and AVL trees
 ```
