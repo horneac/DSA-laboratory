@@ -27,7 +27,7 @@ Lab 3: Trees
 Lab 4: Binary Search Trees and AVL trees
 ```
 * Assignment 4:
-	- 4: [BST and AVL trees operations](https://classroom.github.com/a/t-y9xx2U)
+	- 4: [BST and AVL trees operations](https://classroom.github.com/a/fWzq2DkM)
 ```
 Lab 5: Hash Tables
 ```
